@@ -1,0 +1,24 @@
+Jane Developer
+Senior Backend Engineer  |  Toronto, Canada
+jane.dev@example.com  |  github.com/janedev
+
+SUMMARY
+Senior backend engineer with 7 years building scalable web services.
+Strong in Python, distributed systems, and cloud infrastructure.
+
+EXPERIENCE
+Senior Backend Engineer — TechCorp (2021 - Present)
+- Designed microservices in Python using FastAPI and PostgreSQL.
+- Built data pipelines with Apache Airflow and AWS.
+- Reduced API latency by 40% via Redis caching and query tuning.
+
+Software Engineer — DataStart (2018 - 2021)
+- Developed REST APIs in Django and Flask.
+- Managed CI/CD pipelines with Docker and GitHub Actions on AWS.
+
+SKILLS
+Python, FastAPI, Django, Flask, PostgreSQL, Redis, Docker, Kubernetes,
+AWS, Apache Airflow, SQL, REST API, GraphQL, CI/CD, unit testing, microservices
+
+EDUCATION
+B.Sc. Computer Science — University of Toronto
