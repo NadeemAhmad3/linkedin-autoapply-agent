@@ -127,7 +127,7 @@ linkedin-job-finder/
 ### Install & run
 
 ```bash
-git clone https://github.com/NadeemAhmad3/linkedin-job-finder.git
+git clone https://github.com/NadeemAhmad3/linkedin-autoapply-agent.git
 cd linkedin-job-finder/backend
 
 python -m venv .venv
